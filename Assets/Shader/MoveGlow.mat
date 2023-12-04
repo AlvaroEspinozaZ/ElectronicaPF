@@ -92,18 +92,18 @@ Material:
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _EmiExp: 2.36
-    - _EmiInt: 20
+    - _EmiExp: 5.2
+    - _EmiInt: 10.1
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _MoveX: 0
-    - _MoveY: 0.15
+    - _MoveX: 0.15
+    - _MoveY: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _Power: 2.94
+    - _Power: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -112,11 +112,11 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _TimeOrSine: 1
+    - _TimeOrSine: 0
     - _Twirl: 0
-    - _VoriContrast: 0.538
-    - _VoriSize: 6.6
-    - _VorinoiNegative: 1
+    - _VoriContrast: 0.88
+    - _VoriSize: 6.7
+    - _VorinoiNegative: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
